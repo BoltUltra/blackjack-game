@@ -49,6 +49,7 @@ button {
   padding: 10px 40px;
   margin: 10px 0;
   font-weight: 600;
+  margin-bottom: 10px;
 }
 
 button:hover {
